@@ -72,21 +72,6 @@ Across both projects, the general methodology includes:
 - Machine Learning (LR, DT, SVM)
 - Metaheuristic Optimization Algorithms
 - Industrial Internet of Things (IIoT)
-- Fog Computing
-
----
-
-## Repository Structure
-├── data/ # Datasets or data loaders
-├── preprocessing/ # Data preprocessing and feature engineering
-├── models/ # Machine learning models
-├── optimization/
-│ ├── gkso/ # Enhanced GKSO implementation
-│ └── aco/ # Enhanced ACO implementation
-├── experiments/ # Experimental scripts
-├── results/ # Results and logs
-├── README.md
-
 
 ---
 
