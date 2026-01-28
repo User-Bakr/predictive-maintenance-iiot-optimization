@@ -1,5 +1,4 @@
-# Project 2: An Enhanced Ant Colony Optimization Approach for Multi-Classifier
-Predictive Maintenance in Industrial IoT Systems
+# Project 2: An Enhanced Ant Colony Optimization Approach for Multi-Classifier Predictive Maintenance in Industrial IoT Systems
 
 ## Overview
 This project implements the experimental framework for the research work entitled  
