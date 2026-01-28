@@ -1,3 +1,13 @@
+"""
+Project: Optimizing Predictive Maintenance in Industrial IoT using Enhanced GKSO
+Author: Abo Bakr Ahmed
+Description:
+    Implementation of the proposed predictive maintenance framework
+    combining Logistic Regression and an enhanced GKSO algorithm.
+"""
+
+
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
