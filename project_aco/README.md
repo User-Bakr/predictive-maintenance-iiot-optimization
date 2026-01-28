@@ -53,6 +53,6 @@ available in the associated research paper.
 ---
 
 ## Author
-**Bakr Ahmed**  
+**Abo Bakr Ahmed Khedr**  
 Computer Science Undergraduate  
 University of Sharjah
