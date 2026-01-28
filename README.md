@@ -90,6 +90,6 @@ The implementations reflect the methodologies described in the associated public
 ---
 
 ## Author
-**Bakr Ahmed**  
+**Abo Bakr Ahmed Khedr**  
 Computer Science Undergraduate  
 University of Sharjah
